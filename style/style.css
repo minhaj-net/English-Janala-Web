@@ -1,4 +1,6 @@
-.english {
-  background-color: green;
-  text-align: center;
+* {
+  font-family: "Poppins", sans-serif;
+}
+.bangla-font {
+  font-family: "Hind Siliguri", sans-serif;
 }
